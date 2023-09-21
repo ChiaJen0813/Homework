@@ -103,6 +103,7 @@ public class Hw2 {
 			word += 1;
 			System.out.println();
 		}
+		
 		System.out.println("\n===================");
 
 		// 輸出九九乘法表
@@ -116,6 +117,7 @@ public class Hw2 {
 			}
 			System.out.println();
 		}
+		
 		System.out.println("\n===================");
 
 //		2.使用for迴圈+do while迴圈
@@ -126,6 +128,7 @@ public class Hw2 {
 			} while (++m <= 9);
 			System.out.println();
 		}
+		
 		System.out.println("\n===================");
 
 //      3.使用while迴圈+do while迴圈
